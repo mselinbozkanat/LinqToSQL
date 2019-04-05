@@ -1,0 +1,37 @@
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe.config
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.pdb
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Form1.resources
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Properties.Resources.resources
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.exe
+C:\Users\Section2\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.pdb
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe.config
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.exe
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.pdb
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.pdb
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Form1.resources
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Properties.Resources.resources
+C:\Users\AHMET\Desktop\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Form1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Properties.Resources.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\bin\Debug\LinqToSql1.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Form1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.Properties.Resources.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\LINQTOSQL\LinqToSql1\LinqToSql1\obj\Debug\LinqToSql1.csproj.GenerateResource.Cache
